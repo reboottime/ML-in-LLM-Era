@@ -1,10 +1,8 @@
 # README
 
-We are in a new Era in ML.
+We are in a new era in ML.
 
-The course content concluded in 2024. The course aims to help you understand generative AI fundamentals.
-
-You can find the [course recordings on youtube here.](https://www.youtube.com/watch?v=AVIKFXLCPY8&list=PLJV_el3uVTsPz6CTopeRp2L2t4aL_KgiI)
+You can find the [course materials here](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring.php) and course [recordings on YouTube here](https://www.youtube.com/watch?v=AVIKFXLCPY8&list=PLJV_el3uVTsPz6CTopeRp2L2t4aL_KgiI). This concluded in 2024 and aims to help you understand generative AI fundamentals.
 
 ## Homework and Expectation
 
