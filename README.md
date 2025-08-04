@@ -1,6 +1,6 @@
 # ML in LLM Era (2025)
 
-These series of courses are by Professor Hung Yi Lee.
+This series of courses is by Professor Hung Yi Lee.
 
 The 2025 version course home page is [here](https://speech.ee.ntu.edu.tw/~hylee/ml/2025-spring.php).
 
@@ -12,5 +12,11 @@ The 2025 version course home page is [here](https://speech.ee.ntu.edu.tw/~hylee/
 
 ## Objective
 
-I'm more interested in accumulating solid skills and solving my own problem.
+I'm more interested in accumulating solid skills and solving my own problems.
 What options do I have from top universities?
+
+I'm looking for courses that meet the following requirements:
+
+- Can be audited for free with the option to earn credit later if I decide to get a certification
+- Provide homework review and feedback
+- Offer opportunities to discuss with others, even if just through a forum
