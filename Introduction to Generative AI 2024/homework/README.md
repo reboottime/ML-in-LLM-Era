@@ -17,8 +17,9 @@
 - [x] Write and evaluate two essays using generative AI
   - [x] [HW2 slides](https://docs.google.com/presentation/d/1kg7K1_kc77X1gQ26i49YVr4nXnXB7xcE-uus6POjNXU/edit?fbclid=IwAR049aGcPMDuYfODDMz6btTF6u92cM3eXVul_0urB6yc5TgIDVonYrJfoLk#slide=id.g265c9eec45a_0_115)
   - [x] [HW2 video](https://youtu.be/MLvfqvEuINk)
-- [ ] [HW3 slides](https://docs.google.com/presentation/d/1fAXUpvAxmTQEQrIhJxcPz4AlAhY5hLsC6b9p5TrMAIU/edit#slide=id.g2aefc017252_0_465)
-- [ ] [HW3 code](https://colab.research.google.com/drive/15jh4v_TBPsTyIBhi0Fz46gEkjvhzGaBR?usp=sharing)
+- [ ]  Make your own Application using generative AI API
+  - [ ] [HW3 slides](https://docs.google.com/presentation/d/1fAXUpvAxmTQEQrIhJxcPz4AlAhY5hLsC6b9p5TrMAIU/edit#slide=id.g2aefc017252_0_465)
+  - [ ] [HW3 code](https://colab.research.google.com/drive/15jh4v_TBPsTyIBhi0Fz46gEkjvhzGaBR?usp=sharing)
 - [ ] [HW3 video](https://youtu.be/mQb5Zbbm_T8?si=8M8YOuV7QY1vojig)
 - [ ] [HW4 slides](https://docs.google.com/presentation/d/1IgRKo5D24opcSGMNU2ws_EfTng7ESQSDE4i9ehkKbj8/edit?usp=sharing)
 - [ ] [HW4 code](https://colab.research.google.com/drive/16JzVN_Mu4mJfyHQpQEuDx1q6jI-cAnEl?hl=zh-tw#scrollTo=dk-L0dvg9Q-y&uniqifier=1)
