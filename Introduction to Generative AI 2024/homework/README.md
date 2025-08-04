@@ -2,8 +2,9 @@
 
 ## Homework Links
 
-- [ ] [HW1 slides](https://docs.google.com/presentation/d/12vEaqmn0jVYgAuetemGZ-uy_irUHlnZO1cggUYQNRb4/edit#slide=id.g269cf33dbdc_0_0)
-- [ ] [HW1 video](https://youtu.be/QOrtPUxaIG8)
+- [x] HW1: Experience the Power and Limitation of Generative AI
+  - [x] [HW1 slides](https://docs.google.com/presentation/d/12vEaqmn0jVYgAuetemGZ-uy_irUHlnZO1cggUYQNRb4/edit#slide=id.g269cf33dbdc_0_0)
+  - [x] [HW1 video](https://youtu.be/QOrtPUxaIG8)
 - [ ] [HW2 slides](https://docs.google.com/presentation/d/1kg7K1_kc77X1gQ26i49YVr4nXnXB7xcE-uus6POjNXU/edit?fbclid=IwAR049aGcPMDuYfODDMz6btTF6u92cM3eXVul_0urB6yc5TgIDVonYrJfoLk#slide=id.g265c9eec45a_0_115)
 - [ ] [HW2 video](https://youtu.be/MLvfqvEuINk)
 - [ ] [HW3 slides](https://docs.google.com/presentation/d/1fAXUpvAxmTQEQrIhJxcPz4AlAhY5hLsC6b9p5TrMAIU/edit#slide=id.g2aefc017252_0_465)
