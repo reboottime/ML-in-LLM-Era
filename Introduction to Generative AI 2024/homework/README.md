@@ -20,7 +20,7 @@
 - [x]  Make your own Application using generative AI API
   - [x] [HW3 slides](https://docs.google.com/presentation/d/1fAXUpvAxmTQEQrIhJxcPz4AlAhY5hLsC6b9p5TrMAIU/edit#slide=id.g2aefc017252_0_465)
   - [x] [HW3 code](https://colab.research.google.com/drive/15jh4v_TBPsTyIBhi0Fz46gEkjvhzGaBR?usp=sharing)
-- [ ] [HW3 video](https://youtu.be/mQb5Zbbm_T8?si=8M8YOuV7QY1vojig)
+  - [x] [HW3 video](https://youtu.be/mQb5Zbbm_T8?si=8M8YOuV7QY1vojig)
 - [ ] [HW4 slides](https://docs.google.com/presentation/d/1IgRKo5D24opcSGMNU2ws_EfTng7ESQSDE4i9ehkKbj8/edit?usp=sharing)
 - [ ] [HW4 code](https://colab.research.google.com/drive/16JzVN_Mu4mJfyHQpQEuDx1q6jI-cAnEl?hl=zh-tw#scrollTo=dk-L0dvg9Q-y&uniqifier=1)
 - [ ] [HW4 video](https://youtu.be/igCtvqfZhms?si=e9HL_ZJKsWJD4r1i)
