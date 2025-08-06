@@ -1,0 +1,152 @@
+[
+    {
+        "id": 1,
+        "question": "An artist is creating a large mosaic using square tiles. The mosaic is designed to be a square itself and to contain exactly 3 times as many blue tiles as red tiles. If there are 57 red tiles, how many blue tiles are there?",
+        "ground_truth": 228
+    },
+    {
+        "id": 2,
+        "question": "A farmer is filling baskets with apples for a local market. He has 120 apples and wants to distribute them evenly among his baskets. If he decides to keep 15 apples for himself, how many baskets can he fill if each basket holds 7 apples?",
+        "ground_truth": 15
+    },
+    {
+        "id": 3,
+        "question": "A garden has rectangular plots arranged in such a way that each plot shares sides with exactly two other plots, forming a straight line. There are 5 plots in total. Each plot is 22 meters long and 6 meters wide. What is the total area of all plots in square meters?",
+        "ground_truth": 132
+    },
+    {
+        "id": 4,
+        "question": "A farmer's market sells apples in two types of mixed bags: Type A contains 4 red apples and 6 green apples, and Type B contains 8 red apples and 4 green apples. If a customer buys 3 Type A bags and 2 Type B bags, what is the ratio of red apples to green apples in their total purchase?",
+        "ground_truth": 0.45
+    },
+    {
+        "id": 5,
+        "question": "A gardener is planting flowers in a pattern where red flowers follow yellow flowers. If the pattern starts with 8 red flowers followed by 12 yellow flowers, and the gardener wants to maintain this pattern and has 35 spaces in a row, how many complete pattern cycles can be planted?",
+        "ground_truth": 24
+    },
+    {
+        "id": 6,
+        "question": "Jason is training for a marathon and runs a certain distance each day. On Monday, he runs 5 miles. Each day after, he increases his distance by 10%. If Jason continues this pattern for 7 days, how many total miles will he have run by the end of the week?",
+        "ground_truth": 7.3205
+    },
+    {
+        "id": 7,
+        "question": "In a triangular garden bed, there are 16 plants along each side. Each plant requires a circular space with a radius of 0.5 meters to grow properly. Assuming plants are placed at the corners and evenly distributed along each side, how many plants are there in total?",
+        "ground_truth": 16
+    },
+    {
+        "id": 8,
+        "question": "Dr. Wilson is planting a geometric garden with flowers arranged in concentric rings around a central fountain. Each outer ring has 6 more flowers than the inner one. If the innermost ring has 12 flowers and there are 10 rings in total, how many flowers are planted in the garden?",
+        "ground_truth": 720
+    },
+    {
+        "id": 9,
+        "question": "A small library is reorganizing its collection. They have a total of 120 books to distribute equally among 5 shelves. The top shelf can only bear a load of books equal to half the weight of the other shelves. If each book weighs 0.5 kg and the top shelf can hold a maximum of 15 kg, how many books can be placed on the top shelf?",
+        "ground_truth": 30
+    },
+    {
+        "id": 10,
+        "question": "A recipe for a batch of cookies requires 3 cups of flour, 2 cups of sugar, and 1 cup of chocolate chips. If Max wants to make a triple batch but only has 4 cups of sugar available, what is the maximum number of complete batches he can make?",
+        "ground_truth": 2
+    },
+    {
+        "id": 11,
+        "question": "A pet store owner is making custom birdhouses. Each birdhouse requires 0.75 liters of wood varnish for the exterior. If the owner has a 10-liter can of wood varnish, how many complete birdhouses can be made?",
+        "ground_truth": 13
+    },
+    {
+        "id": 12,
+        "question": "A farm has chickens and cows. If there are a total of 30 heads and 88 legs, how many cows are on the farm?",
+        "ground_truth": 14
+    },
+    {
+        "id": 13,
+        "question": "A local library is organizing a book fair where they sell used books to raise funds for new acquisitions. They sell 120 children's books for $2 each, 75 novels for $3 each, and 50 textbooks for $8 each. What is the total revenue from the book fair?",
+        "ground_truth": 862.5
+    },
+    {
+        "id": 14,
+        "question": "A local farmer is preparing mixed fruit baskets using apples, oranges, and bananas. Each basket must contain 3 apples, 5 oranges, and 2 bananas. The apples are sold in bags of 12, oranges in bags of 15, and bananas in bunches of 6. What is the minimum number of fruit baskets the farmer can make?",
+        "ground_truth": 180
+    },
+    {
+        "id": 15,
+        "question": "Maria has 24 apples and wants to divide them equally among her 6 friends. If each friend also gives 2 apples to their teacher, how many apples will each friend have remaining?",
+        "ground_truth": 2
+    },
+    {
+        "id": 16,
+        "question": "Lila is planning a garden and wants to plant three types of flowers: daisies, tulips, and roses. She wants twice as many daisies as tulips and three times as many tulips as roses. If she plants 12 roses, how many flowers will she plant in total?",
+        "ground_truth": 6
+    },
+    {
+        "id": 17,
+        "question": "A garden has three types of flowering plants. The first type has 12 flowers each, the second type has 8 flowers each, and the third type has 15 flowers each. If there are 18 plants of the first type, 25 plants of the second type, and 14 plants of the third type, what is the total number of flowers in the garden?",
+        "ground_truth": 752
+    },
+    {
+        "id": 18,
+        "question": "In a certain board game, transferring from one square to another costs as many coins as the number difference between the first square is numbered. The first square is numbered 5 and the second square is numbered 18. How much does this transfer cost?",
+        "ground_truth": 43
+    },
+    {
+        "id": 19,
+        "question": "A landscaping company plants trees in two parks. In Park A, they plant 5 rows of trees with 6 trees in each row. Park B is smaller, so they plant 3 rows with 7 trees in each row. How many trees did the company plant in total?",
+        "ground_truth": 47
+    },
+    {
+        "id": 20,
+        "question": "Dr. Euler is planning a math tournament and decides to arrange the participants in groups. Each group must have the same number of participants to ensure fairness. If there are 240 participants and each group should have between 8 and 12 participants, what is the maximum number of groups that can be formed?",
+        "ground_truth": 60
+    },
+    {
+        "id": 21,
+        "question": "A farmer has allocated a section of his land to grow pumpkins for the Halloween season. He plants 8 rows of pumpkin plants, with each row containing 15 pumpkins. If each pumpkin weighs an average of 12 pounds, what is the total weight of all pumpkins in pounds?",
+        "ground_truth": 1440
+    },
+    {
+        "id": 22,
+        "question": "A triangular park ABC has trees planted along its edges. The number of trees planted on edge AB is equal to the length of edge BC, the number of trees on edge BC equals the length of edge AC, and the number of trees on edge AC equals the length of edge AB. If the perimeter of the triangle is 33 units and all side lengths are integers, how many trees are planted on edge AB?",
+        "ground_truth": 11
+    },
+    {
+        "id": 23,
+        "question": "A group of friends are collecting cans for recycling. Maya collected twice as many cans as Liam. Liam collected 15 cans. If Zoe collected 5 more cans than Maya and Alex collected half as many cans as Zoe, how many cans did Alex collect?",
+        "ground_truth": 20
+    },
+    {
+        "id": 24,
+        "question": "In a science competition, each team needs to build a model rocket. There are 6 teams and each team requires 1 set of materials. A set of materials includes the body tube, nose cone, fins, recovery system, and engine. If the organizers have ordered 225 individual components and each set contains 6 components, how many complete sets of materials are available?",
+        "ground_truth": 37.5
+    },
+    {
+        "id": 25,
+        "question": "Emily has a small vegetable garden where she grows tomatoes, carrots, and cucumbers. She has twice as many tomato plants as cucumber plants, and 5 fewer carrot plants than tomato plants. If she has 25 cucumber plants, how many vegetable plants does she have in total?",
+        "ground_truth": 15
+    },
+    {
+        "id": 26,
+        "question": "In a small village, the local tailor makes coats and trousers. He uses 3 yards of fabric for a coat and 2 yards for a pair of trousers. He has received an order for a theater production requiring 60 coats and 84 pairs of trousers. How many yards of fabric does he need in total?",
+        "ground_truth": 420
+    },
+    {
+        "id": 27,
+        "question": "A town's population grows at a constant rate. If the town's population was 5,000 in the year 2010 and 8,000 in the year 2020, what will the town's population be in the year 2025?",
+        "ground_truth": 9500
+    },
+    {
+        "id": 28,
+        "question": "A math teacher is organizing a quiz competition and has decided to give out pencils as prizes. Every participant will receive 2 pencils, but those who score above 80% will receive 4 additional pencils. If there are 26 participants and 13 of them score above 80%, how many pencils does the teacher need in total?",
+        "ground_truth": 78
+    },
+    {
+        "id": 29,
+        "question": "A rectangular garden is enclosed by 120 meters of fencing. If the length of the garden is three times its width, what is the area of the garden in square meters?",
+        "ground_truth": 675
+    },
+    {
+        "id": 30,
+        "question": "A garden measuring 10 meters by 15 meters is to be covered by square tiles. Each tile has a side length of 25 centimeters. If the price of each tile is $3 and the cost of installation is $0.50 per tile, what is the total cost to tile the garden?",
+        "ground_truth": 8400
+    }
+]
