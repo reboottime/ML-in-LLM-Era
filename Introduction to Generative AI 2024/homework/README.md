@@ -13,7 +13,7 @@ Here's the translation of the table into English as a markdown table:
 | 2/23 | [x]          | The World of True and False Information      |                  |                | ▲          |
 | 3/01 | [x]          | It's All AI Writing Competition              |                  |                | ▲          |
 | 3/08 | [x]          | Building Your Own Application with AI        | O                |                | ▲▲         |
-| 3/22 | [ ]          | Becoming an AI Hypnotist                     | O (?)            |                | ▲▲         |
+| 3/22 | [x]          | Becoming an AI Hypnotist                     | O (?)            |                | ▲▲         |
 | 3/29 | [ ]          | Training Your Own Language Model             | O                | O              | ▲▲▲        |
 | 4/12 | [ ]          | AI Learning Through Human Feedback           | O                | O              | ▲▲         |
 | 5/03 | [ ]          | Understanding What Generative AI is Thinking | O                |                | ▲▲         |
