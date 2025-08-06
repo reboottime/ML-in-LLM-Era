@@ -16,10 +16,11 @@ Related materials:
 
 ## Key Points
 
-### How to Train LLMs
+### How to Train LLMs and how LLMs work
 
 - what is model: a function with a series of unknown parameters. Training model is to find the optimized parameters values.
 - The LLM Training Process
+- why the same input in LLM may get different output
 
 ### Be an AI Hypnotist
 
@@ -27,7 +28,7 @@ Related materials:
 - Being a good commander
   - Treat LLMs as humans with needed fundamental skills.
   - Clearly define the objective, constraints, context, and instructions.
-  - Form a team based on needs. Whilst LLMs are generalists, different models have different economic costs for various tasks and capabilities. We can also assign a role to LLM.
+  - Form a team based on needs. Whilst LLMs are generalists, different models may have different economic costs for various tasks and capabilities. We can also assign a role to LLM.
   
 - Employ influence: emotional blackmail, reward, and penalty.
 - Align LLM with reality
