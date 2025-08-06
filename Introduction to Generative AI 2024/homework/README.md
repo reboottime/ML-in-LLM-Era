@@ -1,6 +1,27 @@
 # Homework
 
-## Homework Links
+## Homework and Expectation
+
+- The course will teach you to
+  - `train(actually it is fine tune)` a model with 7B parameters
+  - fine tune your own generative AI models
+  - Homework
+Here's the translation of the table into English as a markdown table:
+
+| Date | Is Finished? | Task                                         | Execution Method | Training Model | Difficulty |
+| ---- | ------------ | -------------------------------------------- | ---------------- | -------------- | ---------- |
+| 2/23 | [x]          | The World of True and False Information      |                  |                | ▲          |
+| 3/01 | [x]          | It's All AI Writing Competition              |                  |                | ▲          |
+| 3/08 | [x]          | Building Your Own Application with AI        | O                |                | ▲▲         |
+| 3/22 | [x]          | Becoming an AI Hypnotist                     | O (?)            |                | ▲▲         |
+| 3/29 | [ ]          | Training Your Own Language Model             | O                | O              | ▲▲▲        |
+| 4/12 | [ ]          | AI Learning Through Human Feedback           | O                | O              | ▲▲         |
+| 5/03 | [ ]          | Understanding What Generative AI is Thinking | O                |                | ▲▲         |
+| 5/10 | [ ]          | Safety Issues of Generative AI               | O                |                | ▲▲         |
+| 5/17 | [ ]          | Quick Summary of Lecture Videos              | O                |                | ▲▲         |
+| 5/31 | [ ]          | Customizing Your Own Image Generation AI     | O                | O              | ▲▲▲        |
+
+## Homework Materials
 
 - [x] HW1: Experience the Power and Limitation of Generative AI
   - [x] [HW1 slides](https://docs.google.com/presentation/d/12vEaqmn0jVYgAuetemGZ-uy_irUHlnZO1cggUYQNRb4/edit#slide=id.g269cf33dbdc_0_0)
@@ -14,31 +35,38 @@
     - too perfect in textbook perfection
     - red flags
       - interestingly, is a common opener in AI generated content
-- [x] Write and evaluate two essays using generative AI
+- [x] HW2: Write and evaluate two essays using generative AI
   - [x] [HW2 slides](https://docs.google.com/presentation/d/1kg7K1_kc77X1gQ26i49YVr4nXnXB7xcE-uus6POjNXU/edit?fbclid=IwAR049aGcPMDuYfODDMz6btTF6u92cM3eXVul_0urB6yc5TgIDVonYrJfoLk#slide=id.g265c9eec45a_0_115)
   - [x] [HW2 video](https://youtu.be/MLvfqvEuINk)
-- [x]  Make your own Application using generative AI API
+- [x] HW3: Make your own Application using generative AI API
   - [x] [HW3 slides](https://docs.google.com/presentation/d/1fAXUpvAxmTQEQrIhJxcPz4AlAhY5hLsC6b9p5TrMAIU/edit#slide=id.g2aefc017252_0_465)
   - [x] [HW3 code](https://colab.research.google.com/drive/15jh4v_TBPsTyIBhi0Fz46gEkjvhzGaBR?usp=sharing)
   - [x] [HW3 video](https://youtu.be/mQb5Zbbm_T8?si=8M8YOuV7QY1vojig)
-- [ ] [HW4 slides](https://docs.google.com/presentation/d/1IgRKo5D24opcSGMNU2ws_EfTng7ESQSDE4i9ehkKbj8/edit?usp=sharing)
-- [ ] [HW4 code](https://colab.research.google.com/drive/16JzVN_Mu4mJfyHQpQEuDx1q6jI-cAnEl?hl=zh-tw#scrollTo=dk-L0dvg9Q-y&uniqifier=1)
-- [ ] [HW4 video](https://youtu.be/igCtvqfZhms?si=e9HL_ZJKsWJD4r1i)
-- [ ] [HW5 slides](https://docs.google.com/presentation/d/1NINc4Av4pJDMsGL1N_B4CUviwU13-H0RiCvs2K01O-I/edit?usp=sharing)
-- [ ] [HW5 code](https://colab.research.google.com/drive/1nB3jwRJVKXSDDNO-pbURrao0N2MpqHl8?usp=sharing)
-- [ ] [HW5 video](https://www.youtube.com/watch?v=yAsmr10xrog)
-- [ ] [HW6 slides](https://docs.google.com/presentation/d/1B2a0uvrIi6G1Pzm3nkWEkTL0jx1EJppbp0FWxTk_yIk/edit?usp=sharing)
-- [ ] [HW6 code](https://colab.research.google.com/drive/1d3zmkqo-ZmxrIOYWSe3vDD0za8tUPguu?usp=sharing)
-- [ ] [HW6 video](https://youtu.be/BzkR-gUz-CU)
-- [ ] [HW7 slides](https://docs.google.com/presentation/d/191bbVNOly45V8nxa27bbMEW809ST-07hGhSOByMNp4A/edit?usp=sharing)
-- [ ] [HW7 code](https://colab.research.google.com/drive/1Xnz0GHC0yWO2Do0aAYBCq9zL45lbiRjM?usp=sharing)
-- [ ] [HW7 video](https://youtu.be/CVfqSN7aIFc)
-- [ ] [HW8 slides](https://docs.google.com/presentation/d/1PWTG6HVtyw_j3iLUpVKwjZd2jxW1hLJfcZRkO1OXzck/edit?usp=sharing)
-- [ ] [HW8 code](https://colab.research.google.com/drive/1DkK2Mb0cuEtdEN5QnhmjGE3Xe7xeMuKN?usp=sharing)
-- [ ] [HW8 video](https://youtu.be/FQG_AkvKHsk)
-- [ ] [HW9 slides](https://docs.google.com/presentation/d/1cEERZx1MRJ6spaDWx1rDCNogrK4JYkPDE76ZXpyQbRQ/edit?usp=sharing)
-- [ ] [HW9 code](https://colab.research.google.com/drive/1Ysr25kz6lP7gR8DNTkJMAqOuMp2bhXes?usp=sharing)
-- [ ] [HW9 video](https://youtu.be/_0apuUyFLOA)
-- [ ] [HW10 slides](https://docs.google.com/presentation/d/1kIe0UnPT_TV3Dw2TMzL4Uui78UJjyL8ikcUPWxep3YU/edit?pli=1#slide=id.g2dc8860317c_0_0)
-- [ ] [HW10 code](https://colab.research.google.com/drive/1dI_-HVggxyIwDVoreymviwg6ZOvEHiLS?usp=sharing#scrollTo=CnJtiRaRuTFX)
-- [ ] [HW10 video](https://youtu.be/b8U1GzNXIDs)
+- [x] HW4: Become an AI Hypnosis Master
+  - [x] [HW4 slides](https://docs.google.com/presentation/d/1IgRKo5D24opcSGMNU2ws_EfTng7ESQSDE4i9ehkKbj8/edit?usp=sharing)
+  - [x] [HW4 code](https://colab.research.google.com/drive/16JzVN_Mu4mJfyHQpQEuDx1q6jI-cAnEl?hl=zh-tw#scrollTo=dk-L0dvg9Q-y&uniqifier=1)
+  - [x] [HW4 video](https://youtu.be/igCtvqfZhms?si=e9HL_ZJKsWJD4r1i)
+- [ ] HW5: Training Your Own Language Model
+  - [ ] [HW5 slides](https://docs.google.com/presentation/d/1NINc4Av4pJDMsGL1N_B4CUviwU13-H0RiCvs2K01O-I/edit?usp=sharing)
+  - [ ] [HW5 code](https://colab.research.google.com/drive/1nB3jwRJVKXSDDNO-pbURrao0N2MpqHl8?usp=sharing)
+  - [ ] [HW5 video](https://www.youtube.com/watch?v=yAsmr10xrog)
+- [ ] HW6: AI Learning Through Human Feedback
+  - [ ] [HW6 slides](https://docs.google.com/presentation/d/1B2a0uvrIi6G1Pzm3nkWEkTL0jx1EJppbp0FWxTk_yIk/edit?usp=sharing)
+  - [ ] [HW6 code](https://colab.research.google.com/drive/1d3zmkqo-ZmxrIOYWSe3vDD0za8tUPguu?usp=sharing)
+  - [ ] [HW6 video](https://youtu.be/BzkR-gUz-CU)
+- [ ] HW7: Understanding What Generative AI is Thinking
+  - [ ] [HW7 slides](https://docs.google.com/presentation/d/191bbVNOly45V8nxa27bbMEW809ST-07hGhSOByMNp4A/edit?usp=sharing)
+  - [ ] [HW7 code](https://colab.research.google.com/drive/1Xnz0GHC0yWO2Do0aAYBCq9zL45lbiRjM?usp=sharing)
+  - [ ] [HW7 video](https://youtu.be/CVfqSN7aIFc)
+- [ ] HW8: Safety Issues of Generative AI
+  - [ ] [HW8 slides](https://docs.google.com/presentation/d/1PWTG6HVtyw_j3iLUpVKwjZd2jxW1hLJfcZRkO1OXzck/edit?usp=sharing)
+  - [ ] [HW8 code](https://colab.research.google.com/drive/1DkK2Mb0cuEtdEN5QnhmjGE3Xe7xeMuKN?usp=sharing)
+  - [ ] [HW8 video](https://youtu.be/FQG_AkvKHsk)
+- [ ] HW9: Quick Summary of Lecture Videos
+  - [ ] [HW9 slides](https://docs.google.com/presentation/d/1cEERZx1MRJ6spaDWx1rDCNogrK4JYkPDE76ZXpyQbRQ/edit?usp=sharing)
+  - [ ] [HW9 code](https://colab.research.google.com/drive/1Ysr25kz6lP7gR8DNTkJMAqOuMp2bhXes?usp=sharing)
+  - [ ] [HW9 video](https://youtu.be/_0apuUyFLOA)
+- [ ] HW10: Customizing Your Own Image Generation AI
+  - [ ] [HW10 slides](https://docs.google.com/presentation/d/1kIe0UnPT_TV3Dw2TMzL4Uui78UJjyL8ikcUPWxep3YU/edit?pli=1#slide=id.g2dc8860317c_0_0)
+  - [ ] [HW10 code](https://colab.research.google.com/drive/1dI_-HVggxyIwDVoreymviwg6ZOvEHiLS?usp=sharing#scrollTo=CnJtiRaRuTFX)
+  - [ ] [HW10 video](https://youtu.be/b8U1GzNXIDs)
