@@ -31,5 +31,5 @@ Related materials:
   - Form a team based on needs. Whilst LLMs are generalists, different models may have different economic costs for various tasks and capabilities. We can also assign a role to LLM.
   
 - Employ influence: emotional blackmail, reward, and penalty.
-- Align LLM with reality
+- Align LLMs with reality
 - You also need to know LLMs' capability limitation boundary
