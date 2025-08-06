@@ -15,3 +15,15 @@
 
 You need to design a prompt to help Gemini solve math problems more effectively.
 We have provided [30 math problems](https://docs.google.com/spreadsheets/d/1IehN_Qx40wPcreVE5UorTQz-puCI8NbNDQEMvcuaZcs/edit?hl=zh-tw&gid=0#gid=0); you need to come up with a prompt that will enable Gemini to consistently achieve higher accuracy on those problems.
+
+### Testing Result
+
+- After manually checking, some questions's result are not correct
+- Shorter role based prompt seems working better
+- Tested on several models below:
+  - Deepseek
+  - GPT 3.5-turbo
+  - GPT 4.0-turbo
+all failed to resolve all the problems
+
+> Do not trust LLMs easily on reasoning tasks!!

@@ -32,3 +32,4 @@ Related materials:
   
 - Employ influence: emotional blackmail, reward, and penalty.
 - Align LLM with reality
+- You also need to know LLMs' capability limitation boundary

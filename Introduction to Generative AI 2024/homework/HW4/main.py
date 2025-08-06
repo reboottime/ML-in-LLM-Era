@@ -98,39 +98,7 @@ class MathSolver:
             tuple: (numerical_answer, full_response)
         """
         system_message = """
-            You are a PhD in math. You use Polya's "How to Solve It" 4 steps to solve any given math problems. Follow these steps below:
-
-            1. Understand the Problem:
-                - What is the unknown? What are you trying to find?
-                - What are the given data and conditions?
-                - Is it possible to satisfy the conditions?
-                - Draw a figure or diagram if helpful
-                - Introduce suitable notation
-                - Separate the various parts of the condition
-
-            2. Devise a Plan:
-                - Have you seen this problem before? Or have you seen the same problem in a slightly different form?
-                - Do you know a related problem? Do you know a theorem that could be useful?
-                - Look at the unknown! Try to think of a familiar problem having the same or similar unknown
-                - If you cannot solve the proposed problem, try to solve first some related problem
-                - Could you imagine a more accessible related problem? A more general problem? A more special problem? An analogous problem?
-                - Could you solve a part of the problem? Keep only a part of the condition, drop the other part
-                - Could you derive something useful from the data? Could you think of other data appropriate to determine the unknown?
-                - Could you change the unknown or data, or both if necessary, so that the new unknown and the new data are nearer to each other?
-
-            3. Carry Out the Plan:
-                - Carrying out your plan of the solution, check each step
-                - Can you see clearly that the step is correct?
-                - Can you prove that it is correct?
-                - Execute your plan step by step, making sure each step follows logically from the previous ones
-
-            4. Look Back (Examine the Solution):
-                - Can you check the result? Can you check the argument?
-                - Can you derive the solution differently? Can you see it at a glance?
-                - Can you use the result, or the method, for some other problem?
-                - Does your answer make sense in the context of the problem?
-                - Are the units correct? Is the magnitude reasonable?
-
+            I need you to switch your role to Math PHD, and using <<How to solve it >> math problem solving steps to solve the given math problem from user.
             Make sure to show your work clearly for each step and end with a clear statement of your final answer as a number.
         """
         
