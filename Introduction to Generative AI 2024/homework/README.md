@@ -1,6 +1,27 @@
 # Homework
 
-## Homework Links
+## Homework and Expectation
+
+- The course will teach you to
+  - `train(actually it is fine tune)` a model with 7B parameters
+  - fine tune your own generative AI models
+  - Homework
+Here's the translation of the table into English as a markdown table:
+
+| Date | Is Finished? | Task                                         | Execution Method | Training Model | Difficulty |
+| ---- | ------------ | -------------------------------------------- | ---------------- | -------------- | ---------- |
+| 2/23 | [x]          | The World of True and False Information      |                  |                | ▲          |
+| 3/01 | [x]          | It's All AI Writing Competition              |                  |                | ▲          |
+| 3/08 | [x]          | Building Your Own Application with AI        | O                |                | ▲▲         |
+| 3/22 | [ ]          | Becoming an AI Hypnotist                     | O (?)            |                | ▲▲         |
+| 3/29 | [ ]          | Training Your Own Language Model             | O                | O              | ▲▲▲        |
+| 4/12 | [ ]          | AI Learning Through Human Feedback           | O                | O              | ▲▲         |
+| 5/03 | [ ]          | Understanding What Generative AI is Thinking | O                |                | ▲▲         |
+| 5/10 | [ ]          | Safety Issues of Generative AI               | O                |                | ▲▲         |
+| 5/17 | [ ]          | Quick Summary of Lecture Videos              | O                |                | ▲▲         |
+| 5/31 | [ ]          | Customizing Your Own Image Generation AI     | O                | O              | ▲▲▲        |
+
+## Homework Materials
 
 - [x] HW1: Experience the Power and Limitation of Generative AI
   - [x] [HW1 slides](https://docs.google.com/presentation/d/12vEaqmn0jVYgAuetemGZ-uy_irUHlnZO1cggUYQNRb4/edit#slide=id.g269cf33dbdc_0_0)
@@ -14,13 +35,11 @@
     - too perfect in textbook perfection
     - red flags
       - interestingly, is a common opener in AI generated content
-- [x] Write and evaluate two essays using generative AI
-  - [x] [HW2 slides](https://docs.google.com/presentation/d/1kg7K1_kc77X1gQ26i49YVr4nXnXB7xcE-uus6POjNXU/edit?fbclid=IwAR049aGcPMDuYfODDMz6btTF6u92cM3eXVul_0urB6yc5TgIDVonYrJfoLk#slide=id.g265c9eec45a_0_115)
-  - [x] [HW2 video](https://youtu.be/MLvfqvEuINk)
-- [x]  Make your own Application using generative AI API
-  - [x] [HW3 slides](https://docs.google.com/presentation/d/1fAXUpvAxmTQEQrIhJxcPz4AlAhY5hLsC6b9p5TrMAIU/edit#slide=id.g2aefc017252_0_465)
-  - [x] [HW3 code](https://colab.research.google.com/drive/15jh4v_TBPsTyIBhi0Fz46gEkjvhzGaBR?usp=sharing)
-  - [x] [HW3 video](https://youtu.be/mQb5Zbbm_T8?si=8M8YOuV7QY1vojig)
+- [ ] [HW2 slides](https://docs.google.com/presentation/d/1kg7K1_kc77X1gQ26i49YVr4nXnXB7xcE-uus6POjNXU/edit?fbclid=IwAR049aGcPMDuYfODDMz6btTF6u92cM3eXVul_0urB6yc5TgIDVonYrJfoLk#slide=id.g265c9eec45a_0_115)
+- [ ] [HW2 video](https://youtu.be/MLvfqvEuINk)
+- [ ] [HW3 slides](https://docs.google.com/presentation/d/1fAXUpvAxmTQEQrIhJxcPz4AlAhY5hLsC6b9p5TrMAIU/edit#slide=id.g2aefc017252_0_465)
+- [ ] [HW3 code](https://colab.research.google.com/drive/15jh4v_TBPsTyIBhi0Fz46gEkjvhzGaBR?usp=sharing)
+- [ ] [HW3 video](https://youtu.be/mQb5Zbbm_T8?si=8M8YOuV7QY1vojig)
 - [ ] [HW4 slides](https://docs.google.com/presentation/d/1IgRKo5D24opcSGMNU2ws_EfTng7ESQSDE4i9ehkKbj8/edit?usp=sharing)
 - [ ] [HW4 code](https://colab.research.google.com/drive/16JzVN_Mu4mJfyHQpQEuDx1q6jI-cAnEl?hl=zh-tw#scrollTo=dk-L0dvg9Q-y&uniqifier=1)
 - [ ] [HW4 video](https://youtu.be/igCtvqfZhms?si=e9HL_ZJKsWJD4r1i)
