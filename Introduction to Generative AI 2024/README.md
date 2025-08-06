@@ -1,4 +1,4 @@
-# README
+# Introduction to Generative AI 2024
 
 ## About
 
@@ -15,6 +15,11 @@ Related materials:
 - [homework materials are here](./homework/README.md).
 
 ## Key Points
+
+### How to Train LLMs
+
+- what is model: a function with a series of unknown parameters. Training model is to find the optimized parameters values.
+- The LLM Training Process
 
 ### Be an AI Hypnotist
 
