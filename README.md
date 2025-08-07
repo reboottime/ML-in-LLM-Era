@@ -12,11 +12,13 @@ The 2025 version course home page is [here](https://speech.ee.ntu.edu.tw/~hylee/
 
 ## Objective
 
-I'm more interested in accumulating solid skills and solving my own problems.
-What options do I have from top universities?
+I'm more interested in building solid skills and solving real-world problems.
 
-I'm looking for courses that meet the following requirements:
+### Questions
 
-- Can be audited for free with the option to earn credit later if I decide to get a certification
-- Provide homework review and feedback
-- Offer opportunities to discuss with others, even if just through a forum
+- [ ] What options do I have from top universities? I'm looking for courses that meet the following requirements:
+
+  - Can be audited for free with the option to earn credit later if I decide to pursue certification
+  - Provide homework review and feedback
+  - Offer opportunities to discuss with others, even if just through a forum
+- [ ] Does the [LLM Course provided by Hugging Face worth my time?](http://huggingface.co/learn/llm-course/chapter1/1)? I saw it from the HungYi Lee lecture.
