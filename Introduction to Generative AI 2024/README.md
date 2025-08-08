@@ -14,6 +14,11 @@ Related materials:
 - [video lectures](https://www.youtube.com/watch?v=AVIKFXLCPY8&list=PLJV_el3uVTsPz6CTopeRp2L2t4aL_KgiI).  
 - [homework materials are here](./homework/README.md).
 
+### Tasks
+
+- [ ] watch transformer deep dive videos
+- [ ] Draft the logic chain why POS analyzer may not work
+
 ## Key Points
 
 ### How to Train LLMs and how LLMs work
