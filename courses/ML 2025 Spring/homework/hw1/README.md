@@ -7,7 +7,7 @@
 The homework solution uses [OpenAI `Agentic` AI python SDK](https://openai.github.io/openai-agents-python/).
 The workflow is as below:
 
-![x](./flow.png)
+![x](./flowx.png)
 
 ## OpenAI Agentic AI Python SDK
 

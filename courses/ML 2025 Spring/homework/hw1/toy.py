@@ -18,13 +18,13 @@ async def run_test():
     message_to_welcome_agent ="I'm here to visit kate"
     message_to_executive_agent = "I have a appointment with Kate at 03:00 p.m"
     
-    # unpacking tuple. A tuple is a fixed list
-    welcome_result, executive_result = await asyncio.gather(
-        Runner.run(welcome_agent, f"I'm {guest_name}. {message_to_welcome_agent}"),
-        Runner.run(executive_agent, f"I'm {guest_name}, {message_to_executive_agent}")
-    )
-    
     try:
+        # unpacking tuple. A tuple is a fixed list
+        welcome_result, executive_result = await asyncio.gather(
+            Runner.run(welcome_agent, f"I'm {guest_name}. {message_to_welcome_agent}"),
+            Runner.run(executive_agent, f"I'm {guest_name}, {message_to_executive_agent}")
+        )
+    
        print(welcome_result.final_output)
        print(executive_result.final_output)
     except Exception as e:
