@@ -6,7 +6,7 @@ from dataclasses import dataclass
 
 from dotenv import load_dotenv
 from openai import OpenAI
-from agents import Agent, Runner, WebSearchTool
+from agents import Agent, Runner, WebSearchTool, trace
 
 load_dotenv()
 
@@ -153,10 +153,10 @@ if __name__ == "__main__":
     questions = load_questions()
     evaluation = Evaluation()
     
-    # Capture the evaluation results
-    results = asyncio.run(evaluation.evaluate_questions(questions))
-    
-    # Save results to JSON file
+    # tracing: https://openai.github.io/openai-agents-python/tracing/
+    with trace('ML in LLM 2025 HW1'):
+        results = asyncio.run(evaluation.evaluate_questions(questions))
+    # write json reports
     with open("reports.json", "w", encoding="utf-8") as f:
         json.dump(results, f, indent=2, ensure_ascii=False)
     
