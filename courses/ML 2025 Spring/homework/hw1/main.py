@@ -1,3 +1,4 @@
+
 import os
 import json
 import asyncio
@@ -114,10 +115,13 @@ async def fetch_answer(question: str) -> str:
     async def get_keywords_and_clarified_question(question: str) -> [str, str]:
         try:
             results = await asyncio.gather(
-                Runner.run(question_clarifier_agent, question),
                 Runner.run(keyword_extractor_agent, question),
+                Runner.run(question_clarifier_agent, question),
             )
-            print(json.dumps(results))
+            
+            print(results[0].final_output)
+            print(results[1].final_output)
+
             return [results[0].final_output, results[1].final_output]
         except Exception as e:
             print(f"unexpected error: {e}")
@@ -152,13 +156,11 @@ async def fetch_answer(question: str) -> str:
 
     print(answer)
 
-
 if __name__ == "__main__":
     asyncio.run(
         fetch_answer(
             # correct
-            # "熊信宽，艺名熊仔，是台湾饶舌创作歌手。2022年获得第33届金曲奖最佳作词人奖，2023年获得第34届金曲奖最佳华语专辑奖。请问熊仔的硕班指导教授为？"
-            # not correct. both claude and ChatGPT made this mistake at first try. As LLMs intercept KO rank as indivual capability in the class
-            "2005 播出的电视剧《终极一班》中，有一个高中生战力排行榜，称为「KO榜」，该榜榜首为？"
+            "熊信宽，艺名熊仔，是台湾饶舌创作歌手。2022年获得第33届金曲奖最佳作词人奖，2023年获得第34届金曲奖最佳华语专辑奖。请问熊仔的硕班指导教授为？"
+            # "2005 播出的电视剧《终极一班》中，有一个高中生战力排行榜，称为「KO榜」，该榜榜首为？"
         )
     )

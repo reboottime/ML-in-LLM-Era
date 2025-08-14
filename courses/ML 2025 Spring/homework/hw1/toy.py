@@ -19,7 +19,7 @@ async def run_test():
     message_to_executive_agent = "I have a appointment with Kate at 03:00 p.m"
     
     try:
-        # unpacking tuple. A tuple is a fixed list
+        # unpacking tuple. A tuple is a fixed list - tuple
         welcome_result, executive_result = await asyncio.gather(
             Runner.run(welcome_agent, f"I'm {guest_name}. {message_to_welcome_agent}"),
             Runner.run(executive_agent, f"I'm {guest_name}, {message_to_executive_agent}")

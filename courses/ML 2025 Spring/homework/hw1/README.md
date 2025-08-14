@@ -9,7 +9,14 @@ The workflow is as below:
 
 ![x](./flowx.png)
 
-## OpenAI Agentic AI Python SDK
+## Learnings
+
+- Each agent in the pipeline may deviate slightly from the optimal path, and these small 
+deviations can accumulate throughout the multi-agent workflow, resulting in discrepancies 
+in the final answer compared to the ground truth.
+- LLM itself can craft very good prompt
+
+## OpenAI `Agentic` AI Python SDK
 
 - How `result` looks like
 
