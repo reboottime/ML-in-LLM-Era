@@ -2,6 +2,7 @@
 
 Course Profile: https://www.coursera.org/specializations/ai-agents#courses
 Claude research is so shallow on my needs.
+ChatGPT5 Pro did deep market search with stats suggested the course 1 & 3.
 
 ## Core Skills You'll Develop
 
